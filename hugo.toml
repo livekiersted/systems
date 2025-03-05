@@ -1,4 +1,4 @@
-baseURL = 'https://solutions.livekiersted.com/'
+baseURL = 'https://systems.livekiersted.com/'
 languageCode = 'en-us'
 title = 'Live Kiersted Problem Solving'
 theme = 'hugo-scroll'
